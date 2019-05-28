@@ -1,16 +1,9 @@
-# Create React App
+# Prsm Portifolio
 
-In this example we will be deploying a simple "Hello World" example with Create React App.
+Now a simple "Hello World" Repo, will concentrate the https://prsm.now.sh production source code.
+This page is made with React.
 
-### Getting started with Create React App
-
-- Start a new Create React App project:
-
-```
-npx create-react-app <project name>
-```
-
-### Deploy with Now
+### Config. Deploy with Now
 
 First we need to create a `now.json` configuration file to instruct Now how to build the project.
 
